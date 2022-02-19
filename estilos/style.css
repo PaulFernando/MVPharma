@@ -1,14 +1,5 @@
-@media (min-width: 768px) {
-  .news-input {
-    width: 50%;
-  }
-}
 
-body {
-  display: block;
-  content: '';
-  height: 60px;
-}
+
 
 #map {
   width: 100%;
